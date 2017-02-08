@@ -1,0 +1,2312 @@
+Mono path[0] = 'C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Builds/build_01122016a_Data/Managed'
+Mono path[1] = 'C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Builds/build_01122016a_Data/Mono'
+Mono config path = 'C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Builds/build_01122016a_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Builds/build_01122016a_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55206
+Multi-casting "[IP] 192.168.1.88 [Port] 55206 [Flags] 2 [Guid] 2339369521 [EditorId] 2977349688 [Version] 1048832 [Id] WindowsPlayer(TheBeast-PC) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.1.88:55206]
+Initialize engine version: 5.3.4p6 (9eb825cf2ca3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7800 Series (ID=0x6819)
+    Vendor:   ATI
+    VRAM:     2029 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Builds\build_01122016a_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Builds\build_01122016a_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Builds\build_01122016a_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Builds\build_01122016a_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Builds\build_01122016a_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Builds\build_01122016a_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Builds\build_01122016a_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Builds\build_01122016a_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Builds\build_01122016a_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Builds\build_01122016a_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Builds\build_01122016a_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Builds\build_01122016a_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.305 seconds
+Platform assembly: C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Builds\build_01122016a_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Builds\build_01122016a_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 3200x1083 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.132755 ms
+86.188.83.72
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Start() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:41)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 41)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 8d24 -> priority: 1 
+  Thread -> id: c0c -> priority: 1 
+
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CheckDatabase>c__Iterator4:MoveNext() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\MainMenuManager.cs:53)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/MainMenuManager.cs Line: 53)
+
+Currently up to date
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<FinishDownload>c__Iterator5:MoveNext() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\MainMenuManager.cs:76)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/MainMenuManager.cs Line: 76)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.775467 ms
+System memory in use before: 18.7 MB.
+System memory in use after: 18.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 381.
+Total: 0.404800 ms (FindLiveObjects: 0.048888 ms CreateObjectMapping: 0.028355 ms MarkObjects: 0.279155 ms  DeleteObjects: 0.021022 ms)
+
+5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<CheckCharacters>c__Iterator0:MoveNext() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\AccountManagement.cs:40)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/AccountManagement.cs Line: 40)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.969466 ms
+System memory in use before: 129.4 MB.
+System memory in use after: 129.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 4682.
+Total: 2.172133 ms (FindLiveObjects: 0.220977 ms CreateObjectMapping: 0.136888 ms MarkObjects: 1.653422 ms  DeleteObjects: 0.155466 ms)
+
+Hutchy123/{"version":2,"packedSlotDataList":null,"slotsV2":[{"id":"MaleEyes","scale":100,"copyIdx":-1,"overlays":[{"id":"EyeOverlay","colorIdx":0,"rect":[0,0,0,0]},{"id":"EyeOverlayAdjust","colorIdx":1,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":2,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":3,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":4,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":5,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":6,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":7,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":8,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":9,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":10,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":11,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":12,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":13,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":14,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":15,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":16,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":17,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":18,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":19,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":20,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":21,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":22,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":23,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":24,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":25,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":26,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":27,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":28,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":29,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":30,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":31,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":32,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":33,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":34,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":35,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":36,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":37,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":38,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":39,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":40,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":41,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":42,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":43,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":44,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":45,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":46,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":47,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":48,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":49,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":50,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":51,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":52,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":53,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":54,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":55,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":56,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":57,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":58,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":59,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":60,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":61,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":62,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":63,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":64,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":65,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":66,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":67,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":68,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":69,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":70,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":71,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":72,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":73,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":74,"rect":[64,64,128,128]}]},{"id":"MaleInnerMouth","scale":100,"copyIdx":-1,"overlays":[{"id":"InnerMouth","colorIdx":0,"rect":[0,0,0,0]}]},{"id":"MaleFace","scale":100,"copyIdx":-1,"overlays":[{"id":"MaleHead02","colorIdx":0,"rect":[0,0,0,0]},{"id":"MaleEyebrow01","colorIdx":75,"rect":[384,256,256,64]},{"id":"MaleHead02","colorIdx":76,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":77,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":78,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":79,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":80,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":81,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":82,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":83,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":84,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":85,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":86,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":87,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":88,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":89,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":90,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":91,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":92,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":93,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":94,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":95,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":96,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":97,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":0,"rect":[0,0,0,0]}]},{"id":"TorsoTee","scale":100,"copyIdx":-1,"overlays":[{"id":"MaleBody02","colorIdx":0,"rect":[0,0,0,0]},{"id":"MaleUnderwear01","colorIdx":0,"rect":[0,459,1024,256]},{"id":"MaleBody02","colorIdx":76,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":77,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":78,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":79,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":80,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":81,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":82,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":83,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":84,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":85,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":86,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":87,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":88,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":89,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":90,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":91,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":92,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":93,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":94,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":95,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":96,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":97,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":0,"rect":[0,0,0,0]}]},{"id":"MaleHands","scale":100,"copyIdx":3,"overlays":null},null,{"id":"SimpleLeatherShoes","scale":100,"copyIdx":-1,"overlays":[{"id":"SimpleLeatherShoes","colorIdx":0,"rect":[0,0,0,0]}]},{"id":"MaleHairShaggy","scale":100,"copyIdx":-1,"overlays":[{"id":"MaleHairShaggy","colorIdx":75,"rect":[0,0,0,0]}]},null,null,{"id":"Tee01","scale":100,"copyIdx":-1,"overlays":[{"id":"Tee01","colorIdx":0,"rect":[0,0,0,0]}]},null,{"id":"Trousers01","scale":100,"copyIdx":-1,"overlays":[{"id":"Trousers01","colorIdx":0,"rect":[0,0,0,0]}]},null,null,null,null,null,null,null],"colors":null,"fColors":[{"name":null,"colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[0,0,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[0,0,0,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[63,45,45,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[63,44,44,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[81,47,47,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[98,43,43,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[113,37,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[120,33,33,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[128,30,30,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[128,29,29,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[130,29,29,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[113,25,25,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[91,20,20,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[76,15,15,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[65,11,11,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[52,7,7,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[44,5,5,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[39,4,4,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[37,3,3,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[37,34,3,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[24,37,3,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[6,37,3,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,37,12,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,37,19,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,37,24,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,37,28,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,37,31,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,37,33,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,37,35,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,37,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,36,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,35,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,29,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,22,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,15,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,14,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,12,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,10,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[3,7,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[5,3,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[8,3,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[14,3,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[17,3,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[22,3,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[21,3,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[15,3,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[10,3,37,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[21,11,61,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[23,12,68,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[33,18,91,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[54,34,133,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[64,43,148,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[69,47,156,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[71,48,161,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[73,50,165,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[71,46,167,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[71,44,176,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[73,43,187,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[74,43,193,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[73,42,195,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[74,43,198,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[75,43,200,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[76,45,200,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[86,57,200,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[90,63,198,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[91,64,195,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[87,61,191,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[78,50,187,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[64,32,187,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[56,23,187,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[52,17,189,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[49,12,193,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[48,11,195,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[47,9,198,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[120,145,39,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[184,172,184,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[185,173,185,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[194,182,194,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[212,199,212,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[226,214,226,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[238,225,238,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[245,232,245,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[248,235,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[249,235,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[250,235,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[250,235,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[252,235,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[254,235,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,235,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,237,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,241,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,249,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,255,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,255,250,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,255,250,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,255,251,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,255,253,255,0,0,0,0,255,255,255,255,0,0,0,0]}],"sharedColorCount":0,"race":"HumanMale","umaDna":{},"packedDna":[{"dnaType":"UMADnaHumanoid","packedDna":"{\"height\":129,\"headSize\":135,\"headWidth\":128,\"neckThickness\":128,\"armLength\":128,\"forearmLength\":128,\"armWidth\":255,\"forearmWidth\":255,\"handsSize\":128,\"feetSize\":128,\"legSeparation\":128,\"upperMuscle\":255,\"lowerMuscle\":255,\"upperWeight\":255,\"lowerWeight\":255,\"legsSize\":129,\"belly\":128,\"waist\":128,\"gluteusSize\":128,\"earsSize\":205,\"earsPosition\":163,\"earsRotation\":150,\"noseSize\":128,\"noseCurve\":128,\"noseWidth\":128,\"noseInclination\":128,\"nosePosition\":128,\"nosePronounced\":128,\"noseFlatten\":128,\"chinSize\":128,\"chinPronounced\":128,\"chinPosition\":128,\"mandibleSize\":128,\"jawsSize\":128,\"jawsPosition\":128,\"cheekSize\":128,\"cheekPosition\":128,\"lowCheekPronounced\":128,\"lowCheekPosition\":128,\"foreheadSize\":128,\"foreheadPosition\":128,\"lipsSize\":128,\"mouthSize\":128,\"eyeRotation\":128,\"eyeSize\":128,\"breastSize\":128}"},{"dnaType":"UMADnaTutorial","packedDna":"{\"eyeSpacing\":128}"}]}
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CharacterSelect:SplitStrings(String) (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:190)
+<LoadCharacters>c__Iterator1:MoveNext() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:178)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/CharacterSelect.cs Line: 190)
+
+5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CharacterSelect:SplitStrings(String) (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:191)
+<LoadCharacters>c__Iterator1:MoveNext() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:178)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/CharacterSelect.cs Line: 191)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.Transform:set_parent(Transform) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:152)
+CharacterSelect:InstantiateNewCharacterButton(String[]) (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:78)
+CharacterSelect:SplitStrings(String) (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:202)
+<LoadCharacters>c__Iterator1:MoveNext() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:178)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 152)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.Transform:set_parent(Transform) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:152)
+CharacterSelect:InstantiateNewCharacterButton(String[]) (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:78)
+CharacterSelect:SplitStrings(String) (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:202)
+<LoadCharacters>c__Iterator1:MoveNext() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:178)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 152)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.Transform:set_parent(Transform) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:152)
+CharacterSelect:InstantiateNewCharacterButton(String[]) (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:78)
+CharacterSelect:SplitStrings(String) (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:202)
+<LoadCharacters>c__Iterator1:MoveNext() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:178)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 152)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.Transform:set_parent(Transform) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:152)
+CharacterSelect:InstantiateNewCharacterButton(String[]) (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:78)
+CharacterSelect:SplitStrings(String) (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:202)
+<LoadCharacters>c__Iterator1:MoveNext() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:178)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 152)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.Transform:set_parent(Transform) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:152)
+CharacterSelect:InstantiateNewCharacterButton(String[]) (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:78)
+CharacterSelect:SplitStrings(String) (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:202)
+<LoadCharacters>c__Iterator1:MoveNext() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\CharacterSelect.cs:178)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 152)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.378756 ms
+System memory in use before: 139.6 MB.
+System memory in use after: 133.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4801.
+Total: 3.566444 ms (FindLiveObjects: 0.190666 ms CreateObjectMapping: 0.142755 ms MarkObjects: 2.100755 ms  DeleteObjects: 1.123466 ms)
+
+Connected
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:InitializeConnection() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:184)
+JoinWorld:Start() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\JoinWorld.cs:16)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 184)
+
+Here 2,0/0/0/0/0/0/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:ReceiveMessages() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:214)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 214)
+
+There 2,0/0/0/0/0/0/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ServerConnection.processMessage (System.String p) [0x00002] in C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:99 
+  at ServerConnection.Update () [0x00094] in C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:251 
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 99)
+
+Where 2,0/0/0/0/0/0/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:242)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 242)
+
+2,0/0/0/0/0/0/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:processMessage(String) (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:104)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:243)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 104)
+
+Message type: 2 Message: 0/0/0/0/0/0/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:processMessage(String) (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:110)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:243)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 110)
+
+boom {"version":2,"packedSlotDataList":null,"slotsV2":[{"id":"MaleEyes","scale":100,"copyIdx":-1,"overlays":[{"id":"EyeOverlay","colorIdx":0,"rect":[0,0,0,0]},{"id":"EyeOverlayAdjust","colorIdx":1,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":2,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":3,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":4,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":5,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":6,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":7,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":8,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":9,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":10,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":11,"rect":[64,64,128,128]},{"id":"EyeOverlayAdjust","colorIdx":12,"rect":[64,64,128,128]}]},{"id":"MaleInnerMouth","scale":100,"copyIdx":-1,"overlays":[{"id":"InnerMouth","colorIdx":0,"rect":[0,0,0,0]}]},{"id":"MaleFace","scale":100,"copyIdx":-1,"overlays":[{"id":"MaleHead02","colorIdx":0,"rect":[0,0,0,0]},{"id":"MaleEyebrow01","colorIdx":13,"rect":[384,256,256,64]},{"id":"MaleHead02","colorIdx":14,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":15,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":16,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":17,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":18,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":19,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":20,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":21,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":22,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":23,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":24,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":25,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":26,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":27,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":28,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":29,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":30,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":31,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":32,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":33,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":34,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":35,"rect":[0,0,0,0]},{"id":"MaleHead02","colorIdx":0,"rect":[0,0,0,0]}]},{"id":"TorsoTee","scale":100,"copyIdx":-1,"overlays":[{"id":"MaleBody02","colorIdx":0,"rect":[0,0,0,0]},{"id":"MaleUnderwear01","colorIdx":0,"rect":[0,459,1024,256]},{"id":"MaleBody02","colorIdx":14,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":15,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":16,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":17,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":18,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":19,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":20,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":21,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":22,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":23,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":24,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":25,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":26,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":27,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":28,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":29,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":30,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":31,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":32,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":33,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":34,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":35,"rect":[0,0,0,0]},{"id":"MaleBody02","colorIdx":0,"rect":[0,0,0,0]}]},{"id":"MaleHands","scale":100,"copyIdx":3,"overlays":null},null,{"id":"SimpleLeatherShoes","scale":100,"copyIdx":-1,"overlays":[{"id":"SimpleLeatherShoes","colorIdx":0,"rect":[0,0,0,0]}]},{"id":"MaleHairShaggy","scale":100,"copyIdx":-1,"overlays":[{"id":"MaleHairShaggy","colorIdx":13,"rect":[0,0,0,0]}]},null,null,{"id":"Tee01","scale":100,"copyIdx":-1,"overlays":[{"id":"Tee01","colorIdx":0,"rect":[0,0,0,0]}]},null,{"id":"Trousers01","scale":100,"copyIdx":-1,"overlays":[{"id":"Trousers01","colorIdx":0,"rect":[0,0,0,0]}]},null,null,null,null,null,null,null],"colors":null,"fColors":[{"name":null,"colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[0,0,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[0,0,0,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[157,67,67,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[157,65,65,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[162,62,62,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[167,61,61,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[175,60,60,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[177,59,59,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[180,60,60,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[177,61,61,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[172,59,59,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[170,60,60,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[162,149,95,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[184,172,184,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[187,175,187,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[198,185,198,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[219,206,219,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[233,220,233,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[244,231,244,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[248,235,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[249,235,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[249,235,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[251,235,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[252,235,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[254,235,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,235,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,236,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,236,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,239,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,245,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,252,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,255,248,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,255,249,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,255,250,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":null,"colors":[255,255,253,255,0,0,0,0,255,255,255,255,0,0,0,0]}],"sharedColorCount":0,"race":"HumanMale","umaDna":{},"packedDna":[{"dnaType":"UMADnaHumanoid","packedDna":"{\"height\":153,\"headSize\":137,\"headWidth\":170,\"neckThickness\":128,\"armLength\":128,\"forearmLength\":128,\"armWidth\":252,\"forearmWidth\":252,\"handsSize\":128,\"feetSize\":128,\"legSeparation\":128,\"upperMuscle\":252,\"lowerMuscle\":252,\"upperWeight\":252,\"lowerWeight\":252,\"legsSize\":153,\"belly\":128,\"waist\":128,\"gluteusSize\":128,\"earsSize\":128,\"earsPosition\":174,\"earsRotation\":128,\"noseSize\":128,\"noseCurve\":128,\"noseWidth\":128,\"noseInclination\":128,\"nosePosition\":128,\"nosePronounced\":128,\"noseFlatten\":128,\"chinSize\":128,\"chinPronounced\":128,\"chinPosition\":128,\"mandibleSize\":128,\"jawsSize\":128,\"jawsPosition\":128,\"cheekSize\":128,\"cheekPosition\":128,\"lowCheekPronounced\":128,\"lowCheekPosition\":128,\"foreheadSize\":128,\"foreheadPosition\":128,\"lipsSize\":128,\"mouthSize\":128,\"eyeRotation\":128,\"eyeSize\":128,\"breastSize\":128}"},{"dnaType":"UMADnaTutorial","packedDna":"{\"eyeSpacing\":128}"}]}
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+LoadCharacterInWorld:Load(String) (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\LoadCharacterInWorld.cs:164)
+<LoadCharacter>c__Iterator2:MoveNext() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\LoadCharacterInWorld.cs:198)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/LoadCharacterInWorld.cs Line: 164)
+
+There 3,0.0000/0.0000/0.0000/0.0000/4.0672/4.0672/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.0000/0.0000/0.0000/0.0000/8.4457/8.4457/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.0000/0.0000/0.0000/0.0000/19.4574/19.4574/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.0000/0.0000/0.0000/0.0000/23.5538/23.5538/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.0000/0.0000/0.0000/0.0000/26.1200/26.1200/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.0000/0.0000/0.0000/0.0000/28.0224/28.0224/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.0000/0.0000/0.0000/0.0000/29.3722/29.3722/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.0000/0.0000/0.0000/0.0000/30.1333/30.1333/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.0000/0.0000/0.0000/0.0000/30.8527/30.8527/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.0000/0.0000/0.0000/0.0000/31.8795/31.8795/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.0000/0.0000/0.0000/0.0000/31.9211/31.9211/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.1056/0.0000/0.1698/0.0000/31.9444/31.9444/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.2114/0.0000/0.3396/0.0000/31.9608/31.9608/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.3172/0.0000/0.5093/0.0000/31.9732/31.9732/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.4231/0.0000/0.6790/0.0000/31.9853/31.9853/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.5290/0.0000/0.8486/0.0000/32.2574/32.2574/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,0.9800/0.0000/1.4988/0.0000/35.2412/35.2412/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,1.0966/0.0000/1.6547/0.0000/36.0477/36.0477/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,1.5142/0.0000/2.1837/0.0000/37.7501/37.7501/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,1.6935/0.0000/2.4099/0.0000/37.9934/37.9934/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,1.8131/0.0000/2.5607/0.0000/38.1188/38.1188/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,1.9326/0.0000/2.7115/0.0000/38.7674/38.7674/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.0562/0.0000/2.8577/0.0000/39.8316/39.8316/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.1847/0.0000/2.9974/0.0000/41.0673/41.0673/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.3820/0.0000/3.2003/0.0000/43.4658/43.4658/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.5177/0.0000/3.3286/0.0000/45.2332/45.2332/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.9428/0.0000/3.6827/0.0000/49.2187/49.2187/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.1589/0.0000/3.8540/0.0000/51.0187/51.0187/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.3061/0.0000/3.9633/0.0000/52.6676/52.6676/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.6867/0.0000/4.2131/0.0000/55.2624/55.2624/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.9154/0.0000/4.3627/0.0000/55.8818/55.8818/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,4.0678/0.0000/4.4624/0.0000/56.1951/56.1951/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,4.9060/0.0000/5.0108/0.0000/56.7099/56.7099/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0585/0.0000/5.1106/0.0000/56.7370/56.7370/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.1347/0.0000/5.1604/0.0000/56.7561/56.7561/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.5051/0.0000/5.0648/0.0000/58.5613/58.5613/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.8755/0.0000/4.9691/0.0000/59.5188/59.5188/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.4851/0.0000/5.3680/0.0000/57.4491/57.4491/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.6375/0.0000/5.4677/0.0000/57.2003/57.2003/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.6375/0.0000/5.4677/0.0000/57.0873/57.0873/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.6375/0.0000/5.4677/0.0000/57.0115/57.0115/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.6375/0.0000/5.4677/0.0000/56.8411/56.8411/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.6375/0.0000/5.4677/0.0000/56.8299/56.8299/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.6375/0.0000/5.4677/0.0000/56.8226/56.8226/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.6375/0.0000/5.4677/0.0000/56.8171/56.8171/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.6375/0.0000/5.4677/0.0000/56.8117/56.8117/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.6375/0.0000/5.4677/0.0000/56.8072/56.8072/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.6375/0.0000/5.4677/0.0000/56.8064/56.8064/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.6375/0.0000/5.4677/0.0000/56.8056/56.8056/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.5461/0.0000/5.4079/0.0000/56.8053/56.8053/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.0908/0.0000/5.1010/0.0000/55.1834/55.1834/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.0459/0.0000/5.0681/0.0000/54.7988/54.7988/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.9561/0.0000/5.0024/0.0000/54.5209/54.5209/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.8663/0.0000/4.9367/0.0000/54.3164/54.3164/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.7766/0.0000/4.8710/0.0000/54.1708/54.1708/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.6419/0.0000/4.7725/0.0000/54.0372/54.0372/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.5521/0.0000/4.7068/0.0000/53.9674/53.9674/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.4174/0.0000/4.6082/0.0000/53.8910/53.8910/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.3276/0.0000/4.5425/0.0000/53.8644/53.8644/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.1929/0.0000/4.4439/0.0000/53.8426/53.8426/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,4.6991/0.0000/4.0826/0.0000/53.8092/53.8092/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,4.6093/0.0000/4.0169/0.0000/53.8079/53.8079/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,4.5195/0.0000/3.9512/0.0000/53.8070/53.8070/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,4.4297/0.0000/3.8854/0.0000/53.8063/53.8063/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,4.3399/0.0000/3.8197/0.0000/53.8058/53.8058/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,4.2501/0.0000/3.7540/0.0000/53.8053/53.8053/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,4.0706/0.0000/3.6226/0.0000/53.8049/53.8049/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.9808/0.0000/3.5569/0.0000/53.8048/53.8048/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.8910/0.0000/3.4912/0.0000/53.8047/53.8047/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.8012/0.0000/3.4255/0.0000/53.8046/53.8046/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.7114/0.0000/3.3598/0.0000/53.8046/53.8046/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.6216/0.0000/3.2941/0.0000/53.8046/53.8046/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.5318/0.0000/3.2284/0.0000/53.8045/53.8045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.3522/0.0000/3.0970/0.0000/53.8045/53.8045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.2623/0.0000/3.0312/0.0000/53.6711/53.6711/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.1267/0.0000/2.9305/0.0000/53.4910/53.4910/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.6294/0.0000/2.5585/0.0000/53.2420/53.2420/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.5390/0.0000/2.4909/0.0000/53.2320/53.2320/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.4486/0.0000/2.4233/0.0000/53.2242/53.2242/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.3582/0.0000/2.3557/0.0000/53.2188/53.2188/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.3130/0.0000/2.3219/0.0000/53.2148/53.2148/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.2226/0.0000/2.2542/0.0000/53.2119/53.2119/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.0870/0.0000/2.1528/0.0000/53.2091/53.2091/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,1.9965/0.0000/2.0852/0.0000/53.2078/53.2078/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,1.9513/0.0000/2.0513/0.0000/53.2069/53.2069/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,1.8609/0.0000/1.9837/0.0000/53.2063/53.2063/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,1.8609/0.0000/1.9837/0.0000/53.2058/53.2058/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,1.8609/0.0000/1.9837/0.0000/53.2055/53.2055/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,1.8609/0.0000/1.9837/0.0000/53.2051/53.2051/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.0116/0.0000/2.0964/0.0000/53.2047/53.2047/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.1623/0.0000/2.2091/0.0000/53.2046/53.2046/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.3883/0.0000/2.3782/0.0000/53.2046/53.2046/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,2.5390/0.0000/2.4909/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.2171/0.0000/2.9981/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.3678/0.0000/3.1108/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.4431/0.0000/3.1672/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.5938/0.0000/3.2799/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.7445/0.0000/3.3926/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,3.8952/0.0000/3.5053/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,4.1212/0.0000/3.6744/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,4.4226/0.0000/3.8998/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,4.4980/0.0000/3.9561/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,4.6486/0.0000/4.0689/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,4.7993/0.0000/4.1816/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0254/0.0000/4.3506/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.1760/0.0000/4.4633/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.4774/0.0000/4.6888/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.6281/0.0000/4.8015/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.7788/0.0000/4.9142/0.0000/53.2045/53.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.6829/0.0000/5.5904/0.0000/54.2534/54.2534/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.6829/0.0000/5.5904/0.0000/55.8612/55.8612/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,7.3613/0.0000/5.8687/0.0000/66.6195/66.6195/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,7.4683/0.0000/6.1355/0.0000/66.8368/66.8368/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,7.7613/0.0000/6.7359/0.0000/72.7602/72.7602/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,7.9525/0.0000/7.0657/0.0000/77.2526/77.2526/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,8.7091/0.0000/7.7518/0.0000/107.1985/107.1985/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,8.9700/0.0000/7.8403/0.0000/118.0823/118.0823/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,9.4190/0.0000/7.9158/0.0000/128.7521/128.7521/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,9.7810/0.0000/7.9376/0.0000/136.0596/136.0596/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,10.0502/0.0000/7.9125/0.0000/143.2512/143.2512/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,10.4013/0.0000/7.8396/0.0000/150.4372/150.4372/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,10.7430/0.0000/7.7345/0.0000/156.3663/156.3663/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.2977/0.0000/7.4414/0.0000/167.5097/167.5097/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.5981/0.0000/7.2436/0.0000/170.8530/170.8530/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.8154/0.0000/7.0822/0.0000/175.6287/175.6287/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,12.0826/0.0000/6.8381/0.0000/179.5431/179.5431/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,12.0389/0.0000/6.5192/0.0000/184.0473/184.0473/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,12.0254/0.0000/6.4396/0.0000/185.4570/185.4570/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.9985/0.0000/6.2805/0.0000/186.5347/186.5347/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.9581/0.0000/6.0418/0.0000/187.6147/187.6147/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.9581/0.0000/6.0418/0.0000/188.1300/188.1300/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.9581/0.0000/6.0418/0.0000/189.2993/189.2993/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.9581/0.0000/6.0418/0.0000/189.3837/189.3837/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.9581/0.0000/6.0418/0.0000/189.4382/189.4382/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.9581/0.0000/6.0418/0.0000/189.5127/189.5127/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.9581/0.0000/6.0418/0.0000/189.5371/189.5371/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.9581/0.0000/6.0418/0.0000/189.5607/189.5607/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.9581/0.0000/6.0418/0.0000/189.5730/189.5730/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.8908/0.0000/5.6440/0.0000/189.5916/189.5916/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.8639/0.0000/5.4849/0.0000/189.5950/189.5950/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.8235/0.0000/5.2462/0.0000/190.2161/190.2161/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.7916/0.0000/5.0884/0.0000/192.3685/192.3685/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.4419/0.0000/4.5037/0.0000/213.6313/213.6313/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.3375/0.0000/4.3971/0.0000/217.7191/217.7191/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.2260/0.0000/4.2982/0.0000/220.7778/220.7778/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,11.1125/0.0000/4.2015/0.0000/223.1285/223.1285/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,10.9983/0.0000/4.1057/0.0000/225.1783/225.1783/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,10.8264/0.0000/3.9626/0.0000/227.5902/227.5902/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,10.7099/0.0000/3.8696/0.0000/229.5237/229.5237/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,10.4591/0.0000/3.7061/0.0000/236.0103/236.0103/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,10.3227/0.0000/3.6448/0.0000/240.0565/240.0565/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,10.1811/0.0000/3.5966/0.0000/245.5750/245.5750/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,9.9052/0.0000/3.8170/0.0000/254.1656/254.1656/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,9.3352/0.0000/3.9543/0.0000/262.1318/262.1318/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,9.1851/0.0000/3.9385/0.0000/262.9873/262.9873/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,9.1097/0.0000/3.9322/0.0000/264.7821/264.7821/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,8.9583/0.0000/3.9317/0.0000/267.8040/267.8040/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,8.8072/0.0000/3.9470/0.0000/271.6240/271.6240/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,8.5839/0.0000/3.9953/0.0000/276.9888/276.9888/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,8.4383/0.0000/4.0415/0.0000/281.9133/281.9133/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,8.1652/0.0000/4.1826/0.0000/293.1365/293.1365/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,8.0431/0.0000/4.2773/0.0000/300.8350/300.8350/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,7.5874/0.0000/4.4438/0.0000/324.3209/324.3209/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,7.3325/0.0000/4.5307/0.0000/335.6436/335.6436/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,7.0163/0.0000/4.7045/0.0000/345.4996/345.4996/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.7351/0.0000/4.9370/0.0000/358.0058/358.0058/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.4840/0.0000/5.2062/0.0000/5.6374/5.6374/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.3346/0.0000/5.4429/0.0000/13.7229/13.7229/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,6.0614/0.0000/5.5668/0.0000/18.2088/18.2088/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.8875/0.0000/5.6656/0.0000/21.4721/21.4721/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.6378/0.0000/5.8319/0.0000/31.7693/31.7693/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.6378/0.0000/5.8319/0.0000/34.8714/34.8714/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.6378/0.0000/5.8319/0.0000/36.3881/36.3881/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.6378/0.0000/5.8319/0.0000/37.6587/37.6587/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.6378/0.0000/5.8319/0.0000/38.6261/38.6261/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.6378/0.0000/5.8319/0.0000/39.3551/39.3551/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.6378/0.0000/5.8319/0.0000/40.0668/40.0668/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.6378/0.0000/5.8319/0.0000/42.0486/42.0486/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.6378/0.0000/5.8319/0.0000/44.7522/44.7522/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.6378/0.0000/5.8319/0.0000/51.7926/51.7926/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.5295/0.0000/6.0001/0.0000/52.5927/52.5927/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.4211/0.0000/6.1682/0.0000/53.3206/53.3206/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/61.2826/61.2826/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/62.3159/62.3159/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/63.1019/63.1019/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/63.7425/63.7425/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/64.1404/64.1404/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/64.4145/64.4145/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/64.6920/64.6920/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/64.8246/64.8246/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/64.9227/64.9227/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.0002/65.0002/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.0535/65.0535/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.0926/65.0926/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.1320/65.1320/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.1503/65.1503/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.1884/65.1884/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.1940/65.1940/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.1967/65.1967/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2016/65.2016/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2024/65.2024/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2032/65.2032/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2035/65.2035/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2043/65.2043/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2043/65.2043/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2044/65.2044/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2044/65.2044/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2044/65.2044/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2044/65.2044/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+
+There 3,5.0524/0.0000/6.7629/0.0000/65.2045/65.2045/Xanneth
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ServerConnection:Update() (at C:\Users\Callum\Documents\UnityMultiplayerGame\TestingUMA\Assets\Scripts\ServerConnection.cs:249)
+ 
+(Filename: C:/Users/Callum/Documents/UnityMultiplayerGame/TestingUMA/Assets/Scripts/ServerConnection.cs Line: 249)
+

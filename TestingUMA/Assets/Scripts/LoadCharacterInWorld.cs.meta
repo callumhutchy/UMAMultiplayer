@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4e720eba8a81cce4dafa8745f28c2bc1
+timeCreated: 1480629473
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - generator: {instanceID: 0}
+  - slotLibrary: {instanceID: 0}
+  - overlayLibrary: {instanceID: 0}
+  - raceLibrary: {instanceID: 0}
+  - animController: {instanceID: 0}
+  - user: {instanceID: 0}
+  - expressionPlayer: {instanceID: 0}
+  - namePlate: {fileID: 147078, guid: dd6f4cc3ddc64ee4eaec6794654f55ce, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
